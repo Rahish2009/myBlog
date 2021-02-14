@@ -1,0 +1,55 @@
+body {
+	text-align: center;
+	background: linear-gradient(#15cf78 0%, #0dd6e0 100%);
+	\
+ background-repeat: no-repeat;
+}
+
+h1 {
+	text-shadow: 2px 2px #0ca0f0;
+	font-size: 20px;
+}
+
+#bio {
+	padding: 20px;
+	font-size: 18;
+	text-align: center;
+}
+
+.image {
+	height: 150px;
+	margin: 20px;
+	font-size: 50px;
+	opacity: 0.83;
+	margin-left: 350px;
+	margin-right: 450px;
+	border-radius: 50%;
+}
+
+.lists:hover {
+	background-color: cyan;
+
+}
+
+.lists {
+	float: right;
+	color: indianred;
+	padding: 10px;
+	font-family: fantasy;
+	font-size: 20px;
+}
+
+a {
+	display: block;
+	padding: 8px;
+	background-color: #dddddd;
+}
+
+.menu {
+	list-style: none;
+	position: absolute;
+	cursor: pointer;
+	z-index: 10;
+	top: 10px;
+	right: 10px;
+}
