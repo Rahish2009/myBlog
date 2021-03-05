@@ -1,7 +1,6 @@
 body {
 	text-align: center;
 	background: linear-gradient(#15cf78 0%, #0dd6e0 100%);
-	\
  background-repeat: no-repeat;
 }
 
@@ -14,6 +13,7 @@ h1 {
 	padding: 20px;
 	font-size: 18;
 	text-align: center;
+	
 }
 
 .image {
